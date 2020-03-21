@@ -23,4 +23,4 @@ G1 Y105 X125 ;Center
 M0 "Waiting for user"
 M177 "Calibration done."
 G4 P1000 ;Wait for 1s
-M177 "c Mitja Severkar"
+M177 "c MyTja"
