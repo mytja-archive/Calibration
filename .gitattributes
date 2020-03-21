@@ -1,2 +1,3 @@
+static/* linguist-vendored
 *.gcode      text diff=G-Code
 *.stl        text diff=stl
